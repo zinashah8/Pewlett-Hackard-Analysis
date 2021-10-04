@@ -14,7 +14,7 @@
 
 * Through the creation of the unique_titles table, we were able to gather the total list of employees that are eligible for retirement in the upcoming years, arranged by title, to determine which roles would be left open. This table took it one step further from retirement_titles, and helped recover the most recent job title for the retirees to determine which unique roles would be open. This is different from the retirement_titles table, which listed all the roles any given employee held through their entire tenure at Pewlett-Hackard. Through this anlaysis, we see that 90,398 roles will be open as a result of the "silver tsunami". 
 
-![count_retirement_titles](/Users/zina/Desktop/Count_Retiree_Titles)
+![count_retirement_titles](https://github.com/zinashah8/Pewlett-Hackard-Analysis/blob/main/Challenge_Data/count_retirees_titles.png)
 * From the sorted count of titles of retirees, we can see that over 68% (62,172 / 90, 398) of open roles will be for senior, managerial and/or leader roles. 
 
 *  Through the mentorship eligibility table, we see that 1,549 employees are eligible to pursue mentorship opportunities.
